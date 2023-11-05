@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.Car_interfaceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-09-12T06:19:30" hostname="DESKTOP-F0S3R1O" time="0.08">
+  <properties/>
+  <testcase name="Checkingforaddition()" classname="org.example.Car_interfaceTest" time="0.038"/>
+  <testcase name="Checkingfor100elements()" classname="org.example.Car_interfaceTest" time="0.003"/>
+  <testcase name="CheckingForDeletionOfAllElements()" classname="org.example.Car_interfaceTest" time="0.002"/>
+  <testcase name="Checkingfordeletion()" classname="org.example.Car_interfaceTest" time="0.003"/>
+  <testcase name="insertInfoLastPosition()" classname="org.example.Car_interfaceTest" time="0.005"/>
+  <testcase name="CheckingfordeletionObjects()" classname="org.example.Car_interfaceTest" time="0.003"/>
+  <testcase name="CheckingTheOperationOfTheMethodGet()" classname="org.example.Car_interfaceTest" time="0.003"/>
+  <testcase name="insertInfoMiddlePosition()" classname="org.example.Car_interfaceTest" time="0.003"/>
+  <testcase name="insertInfoFirstPosition()" classname="org.example.Car_interfaceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
